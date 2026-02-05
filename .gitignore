@@ -1,2 +1,21 @@
+# Jupyter
 .ipynb_checkpoints/
-README.md
+
+# Data files
+*.csv
+*.zip
+data/raw/
+data/interim/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
